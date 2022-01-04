@@ -97,3 +97,5 @@ What is the Google part again?
 That is to automate the process of translation mapping. Translating a lot of words gets tiring very quickly.
 
 You can create your own mapping if you want in any language you want.
+
+Modificações
